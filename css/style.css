@@ -559,7 +559,7 @@ section.slider .container:hover .btns-list {
 .products-items .products-statistics {
     text-align: left;
     margin-top: 10px;
-    height: 10%;
+    height: 20%;
 }
 .products-items .products-statistics .list-unstyled {
     display: flex;
